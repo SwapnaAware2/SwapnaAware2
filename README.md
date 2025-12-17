@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SwapnaAware2
-- 👀 I’m interested in Web development ,Cloud & Devops
+- 👀 I’m interested in Cloud & Devops Engineering.
 - 🌱 I’m currently learning multicloud technologies and Devops
-- 📫 How to reach me https://www.linkedin.com/in/swapna-aware/
 - 😄 Blogs on: https://swapnaaware.hashnode.dev/
 
 
